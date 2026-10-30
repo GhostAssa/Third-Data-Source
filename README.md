@@ -1,3 +1,4 @@
+HEAD
 # Niagara NEI extraction: README
 
 DataraFlow Founder Challenge 2026 (Niagara Succession Signal). Owner: NEI dataset (dataset 3).
@@ -62,3 +63,6 @@ Persistence: of 421 records flagged closed in 2024, 399 are still closed in 2025
 - **Workbook caveats:** the `Top3_Crosswalk` sheet uses the 2025 totals that include closed/vacant records. Annual and quarterly labour series come from different StatCan tables. Sector estimates for a metro area are noisy, and two PDF typos were resolved using chart values (see the workbook's README sheet).
 - **Not in the PDFs:** monthly jobs, and a full municipal jobs table. The goods-movement report has no job counts.
 - **Team size:** the challenge document caps teams at about four. Confirm the 7-8 person group with mentors.
+=======
+# Third-Data-Source
+
