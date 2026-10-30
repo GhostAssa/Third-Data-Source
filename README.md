@@ -1,4 +1,4 @@
-HEAD
+
 # Niagara NEI extraction: README
 
 DataraFlow Founder Challenge 2026 (Niagara Succession Signal). Owner: NEI dataset (dataset 3).
