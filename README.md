@@ -9,7 +9,6 @@ DataraFlow Founder Challenge 2026 (Niagara Succession Signal). Owner: NEI datase
 |---|---|
 | `Consolidated_NEI_Opendata.csv` | Niagara Employment Inventory, 7 survey years, 12,582 rows |
 | `niagara_labour_jobs_extraction.xlsx` | Tables extracted from 5 Niagara Economic Development PDFs (labour force, jobs by sector and industry, business counts, municipal split of top manufacturers) |
-| `nei_eda.py` | EDA script (legacy-business exposure, top-3 sectors) |
 
 ## 2. What the NEI file actually contains
 
